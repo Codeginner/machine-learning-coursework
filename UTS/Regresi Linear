@@ -1,0 +1,2 @@
+Regresi linear adalah metode statistik yang digunakan untuk memodelkan hubungan linier antara satu variabel dependen (target) dengan satu atau lebih variabel independen (fitur atau predictor). 
+Dalam konteks machine learning, regresi linear adalah salah satu algoritma yang digunakan untuk melakukan prediksi berbasis pada hubungan linier antara variabel-variabel tersebut.
