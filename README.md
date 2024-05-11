@@ -1,3 +1,2 @@
-# machineLearning-task
-tugas Machine Learning TK44G4 
-Gilman Muslih 1103201075
+# Machine Learning Assignments
+The following are my machine learning specialization course assignments
